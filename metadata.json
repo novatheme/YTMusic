@@ -1,0 +1,5 @@
+{
+  "name": "YT Music Clone",
+  "description": "A high-fidelity clone of YouTube Music using the YouTube Data API, featuring Home, Explore, Watch, and Search functionalities.",
+  "requestFramePermissions": []
+}
